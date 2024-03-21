@@ -36,9 +36,9 @@
 @inproceedings{Naef2006VR,
 	title        = {{A VR Interface for Collaborative 3D Audio Performance}},
 	author       = {Naef, Martin and Collicott, Daniel},
-	year         = 2006,
 	booktitle    = NIME,
 	pages        = {57--60}
+	year         = 2006,
 }
 ```
 
