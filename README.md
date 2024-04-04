@@ -1,6 +1,15 @@
 # Rubric for IDMIL Bibliography Formation:
 
-## 1. Adding New Conference or Journal Names:
+## 1. How to add your references to this repository:
+
+- **Step 1**: Go to this repository's ["new-references" branch](https://github.com/IDMIL/IDMIL_bib/tree/new-references)
+- **Step 2**: Press the "." (dot) key on your keyboard to open the Visual Studio Code for the Web
+- **Step 3**: Edit the *new_references.bib* file adding or editing your references in the formats explained in the next steps
+- **Step 4**: Click in the "Source Control" icon ![source control icon](/img/source-control-icon.png) on the left tool bar
+- **Step 5**: Write a text briefly explaining your changes and click on "Commit & Push" button to send it to the Github server. 
+![Commit and push on Visual Studio Code for the Web](/img/commit.png)
+
+## 2. Conference or Journal Name Standards:
 
 - **Step 1**: Identify the official full name of the new conference or journal.
 - **Step 2**: Use an abbreviation (acronym) for the conference or journal name. Use uppercase letters and ensure that it is short, memorable, and as close to the commonly used acronym as possible.
@@ -15,7 +24,7 @@
 @string{ACRONYM = "Proceedings of the New Example Conference"}
 ```
 
-## 2. Adding New References:
+## 3. Adding New References:
 
 - **Step 1**: Determine the type of reference you are adding (e.g., conference paper, journal article). Use `@inproceedings` for conference papers and `@article` for journal articles.
 - **Step 2**: Construct the citation key for the new reference. Use the format "lastNameYearKeyword":
