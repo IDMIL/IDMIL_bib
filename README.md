@@ -6,7 +6,8 @@
 - **Step 2**: Press the "." (dot) key on your keyboard to open the Visual Studio Code for the Web
 - **Step 3**: Edit the *new_references.bib* file adding or editing your references in the formats explained in the next steps
 - **Step 4**: Click in the "Source Control" icon ![source control icon](/img/source-control-icon.png) on the left tool bar
-- **Step 5**: Write a text briefly explaining your changes and click on "Commit & Push" button to send it to the Github server. ![Commit and push on Visual Studio Code for the Web](/img/commit.png)
+- **Step 5**: Write a text briefly explaining your changes and click on "Commit & Push" button to send it to the Github server. 
+![Commit and push on Visual Studio Code for the Web](/img/commit.png)
 
 ## 2. Conference or Journal Name Standards:
 
