@@ -5,8 +5,8 @@
 - **Step 1**: Go to this repository's ["new-references" branch](https://github.com/IDMIL/IDMIL_bib/tree/new-references)
 - **Step 2**: Press the "." (dot) key on your keyboard to open the Visual Studio Code for the Web
 - **Step 3**: Edit the *new_references.bib* file adding or editing your references in the formats explained in the next steps
-- **Step 4**: Click in the "Source Control" icon ![source control icon](/img/source-control-icon.png | width=20) on the left tool bar
-- **Step 5**: Write a text briefly explaining your changes and click on "Commit & Push" button to send it to the Github server. ![Commit and push on Visual Studio Code for the Web](/img/commit.png | width=100)
+- **Step 4**: Click in the "Source Control" icon ![source control icon](/img/source-control-icon.png | width=5) on the left tool bar
+- **Step 5**: Write a text briefly explaining your changes and click on "Commit & Push" button to send it to the Github server. ![Commit and push on Visual Studio Code for the Web](/img/commit.png | width=50)
 
 ## 2. Conference or Journal Name Standards:
 
