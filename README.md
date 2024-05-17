@@ -40,6 +40,40 @@
 	pages        = {57--60}
 	year         = 2006,
 }
+@article{ Waters2021Entanglements ,
+	 title = {{The entanglements which make instruments musical: Rediscovering sociality}},
+	 author = { Waters, Simon },
+	 journal = JNMR,
+	 volume = { 50 },
+	 number = { 2 },
+	 pages = { 133--146 },
+	 year = { 2021 }
+}
+@book{ Calegario2019Springer ,
+	 title = {{Designing Digital Musical Instruments Using Probatio: A Physical Prototyping Toolkit }},
+	 author = { Calegario, Filipe },
+	 publisher = { Springer Cham },
+	 address = { Cham, Switzerland },
+	 year = { 2019 }
+}
+@incollection{ Hardjowirogo2017Instrumentality ,
+	 title = {{ Instrumentality. On the Construction of Instrumental Identity }},
+	 author = { Hardjowirogo, Sarah-Indriyati },
+	 booktitle = { Musical Instruments in the 21st Century: Identities, Configurations, Practices },
+	 pages = { 9-24 },
+	 publisher = { Springer },
+	 address = { Singapore },
+	 year = { 2017 }
+}
+@phdthesis{Adnan2013Thesis,
+  title = {{Working Through: Characterising and Evaluating Skill with Digital Musical Interactions}},
+  author = {Marquez-Borbon, Adnan},
+  school = {Queen's University Belfast},
+  address = { Belfast, Northern Ireland },
+  type = {PhD Thesis},
+  year = {2013},
+}
+
 ```
 
 ## General Guidelines:
