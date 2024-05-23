@@ -38,9 +38,9 @@
 	author       = {Naef, Martin and Collicott, Daniel},
 	booktitle    = NIME,
 	pages        = {57--60}
-	year         = 2006,
+	year         = 2006
 }
-@article{ Waters2021Entanglements ,
+@article{ Waters2021Entanglements,
 	 title = {{The entanglements which make instruments musical: Rediscovering sociality}},
 	 author = { Waters, Simon },
 	 journal = JNMR,
@@ -49,14 +49,15 @@
 	 pages = { 133--146 },
 	 year = { 2021 }
 }
-@book{ Calegario2019Springer ,
+
+@book{ Calegario2019Springer,
 	 title = {{Designing Digital Musical Instruments Using Probatio: A Physical Prototyping Toolkit }},
 	 author = { Calegario, Filipe },
 	 publisher = { Springer Cham },
 	 address = { Cham, Switzerland },
 	 year = { 2019 }
 }
-@incollection{ Hardjowirogo2017Instrumentality ,
+@incollection{ Hardjowirogo2017Instrumentality,
 	 title = {{ Instrumentality. On the Construction of Instrumental Identity }},
 	 author = { Hardjowirogo, Sarah-Indriyati },
 	 booktitle = { Musical Instruments in the 21st Century: Identities, Configurations, Practices },
@@ -70,9 +71,15 @@
   author = {Marquez-Borbon, Adnan},
   school = {Queen's University Belfast},
   address = { Belfast, Northern Ireland },
-  type = {PhD Thesis},
   year = {2013},
-}
+} # Add type = {{PhD Dissertation}}, if you don't want it to appear as a "PhD Thesis" 
+
+@mastersthesis{malloch_consort_2008,
+	title = {{A Consort of Gestural Musical Controllers: Design, Construction, and Performance}},
+	author = {Malloch, Joseph W},	
+	school = {McGill University},
+	year = {2008},
+} # It will appear as a "Master's Thesis"
 
 ```
 
