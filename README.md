@@ -1,5 +1,7 @@
 # Rubric for IDMIL Bibliography Formation:
 
+**We have the new [IDMIL bib bot](https://chatgpt.com/g/g-kXkMsUgjT-idmil-bib-bot). Try it and let us know its errors!** 
+
 ## 1. Adding New Conference or Journal Names:
 
 - **Step 1**: Identify the official full name of the new conference or journal.
