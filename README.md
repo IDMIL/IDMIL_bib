@@ -14,7 +14,10 @@
 
 ## Example:
 ```bibtex
-@string{ACRONYM = "Proceedings of the New Example Conference"}
+@string{ACRONYM = "New Example Conference"}
+
+@string{ICAD = "International Conference of Auditory Displays"}
+
 ```
 
 ## 2. Adding New References:
